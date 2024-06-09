@@ -1,0 +1,2 @@
+# NFTCookie
+BOT AUTO MINT NFTCookie
