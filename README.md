@@ -13,6 +13,9 @@ BOT AUTO MINT NFTCookie
 ```
 pip install requests
 pip install web3
+git clone https://github.com/AirDropFamilyIDN/NFTCookie.git
+cd NFTCookie
+python automintnftcookie.py
 ```
 # Android
 - Termux fdroid : https://f-droid.org/F-Droid.apk
@@ -29,6 +32,10 @@ pkg install python-is-python3.8
 pip install --upgrade pip
 pip install requests
 pip install web3==5.28.0
+git clone https://github.com/AirDropFamilyIDN/NFTCookie.git
+cd NFTCookie
+cd termux
+python automintnftcookie.py
 ```
 # NOTED
 - tinggal input jumlah yang nft yg mau dimint
